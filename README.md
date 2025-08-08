@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias Kallas</h1>
 <h3 align="center">A student in software development</h3>
 
-- 🌱 I’m currently learning **Python**, **HTML/CSS**, and **JavaScript**
+- 🌱 I’m currently learning **Python**, **HTML/CSS**, **JavaScript**, **SQL** and **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eliaskallas](https://github.com/Eliaskallas)
 
